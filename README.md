@@ -8,4 +8,4 @@
 - Rita Namono : https://github.com/Rhytah
 - Eric Kalujja : https://github.com/kal-J
 ## Contributing
-If you added Facebook Developer Circle Kampala Hacktoberfest meetup, look at this [contributing guide](Contributing.md) to see how to add your name to this repo
+If you attended Facebook Developer Circle Kampala Hacktoberfest meetup, look at this [contributing guide](Contributing.md) to see how to add your name to this repo
