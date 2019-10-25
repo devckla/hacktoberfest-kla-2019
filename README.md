@@ -8,3 +8,7 @@
 - Rita Namono : https://https://github.com/Rhytah
 ## Contributing
 If you added Facebook Developer Circle Kampala Hacktoberfest meetup, look at this [contributing guide](Contributing.md) to see how to add your name to this repo
+
+### Attendees
+
+- Prossy Wayana: https://github.com/Lizprossy
