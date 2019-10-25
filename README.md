@@ -2,8 +2,11 @@
 
 ## Attendees
 >Moureen Caroline(Jada) 
-(Jada)(https://github.com/Jadamoureen)
+(!Jada)(https://github.com/Jadamoureen)
 
+>Jada Moureen 
 ### opensource 
 
 The term *_"open source"_* refers to something people can modify and share because its design is publicly accessible.
+
+For over 20 years the Open Source Initiative (OSI) has worked to raise awareness and adoption of open source software, and build bridges between open source communities of practice.
