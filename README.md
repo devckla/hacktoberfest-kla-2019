@@ -20,5 +20,6 @@ For over 20 years the Open Source Initiative (OSI) has worked to raise awareness
 My Fellow Devs let's do it ... yes we can
 
 
-Who is with me on this ! OPENSOURCE...
+Who is with me on this ! OPENSOURCE...Hacktober
+
 
