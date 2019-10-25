@@ -1,7 +1,8 @@
 # hacktoberfest-kla-2019
 
 ## Attendees
->Moureen Caroline(Jada)
+>Moureen Caroline(Jada) 
+(Jada)(https://github.com/Jadamoureen)
 
 ### opensource 
 
