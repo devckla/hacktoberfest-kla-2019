@@ -5,12 +5,13 @@
 https://github.com/Jadamoureen
 
 >Jada Moureen 
+>Moureen
 
 
 
 ### opensource 
 
-Opensource is the way to go fellow devs....
+Opensource is the way to go fellow devs...
 
 The term *_"open source"_* refers to something people can modify and share because its design is publicly accessible.
 
