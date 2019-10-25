@@ -2,7 +2,7 @@
 
 ## Attendees
 >Moureen Caroline(Jada) 
-(!Jada)(https://github.com/Jadamoureen)
+https://github.com/Jadamoureen
 
 >Jada Moureen 
 
