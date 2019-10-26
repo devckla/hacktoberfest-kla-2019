@@ -7,5 +7,6 @@
 - Edna Nakajugo: https://github.com/3Nakajugo
 - Rita Namono : https://https://github.com/Rhytah
 -Iisa Emmanuel:
+-nabulime mercy:
 ## Contributing
 If you added Facebook Developer Circle Kampala Hacktoberfest meetup, look at this [contributing guide](Contributing.md) to see how to add your name to this repo
