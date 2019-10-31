@@ -7,7 +7,7 @@ https://github.com/Jadamoureen
 >Jada Moureen 
 >Moureen
 
-
+Let's talk about Hacktoberfest-Kla-2019!!!
 
 ### opensource 
 
@@ -21,7 +21,7 @@ My Fellow Devs let's do it ... yes we can.
 Join me as we learn more from this exicting Hactoberfest, this is an exicting opportunity that no one should miss out.
 
  Our Tagline should be "Open Source is the way to go"
- 
+
 Who is with me on this ! OPENSOURCE...Hacktober
 
 
