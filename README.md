@@ -17,9 +17,12 @@ The term *_"open source"_* refers to something people can modify and share becau
 
 For over 20 years the Open Source Initiative (OSI) has worked to raise awareness and adoption of open source software, and build bridges between open source communities of practice.
 
-My Fellow Devs let's do it ... yes we can
+My Fellow Devs let's do it ... yes we can. 
+Join me as we learn more from this exicting Hactoberfest, this is an exicting opportunity that no one should miss out.
 
 
 Who is with me on this ! OPENSOURCE...Hacktober
+
+
 
 
