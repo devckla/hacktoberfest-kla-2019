@@ -5,6 +5,8 @@
 - Lydia Sanyu Naggayi: https://github.com/NLSanyu
 - Emmanuel N Christian: https://github.com/Emanuz
 - Edna Nakajugo: https://github.com/3Nakajugo
-- Rita Namono : https://https://github.com/Rhytah
+- Rita Namono : https://github.com/Rhytah
+- Eric Kalujja : https://github.com/kal-J
+- Derrick Busobozi : https://github.com/BusoboziDerrick
 ## Contributing
-If you added Facebook Developer Circle Kampala Hacktoberfest meetup, look at this [contributing guide](Contributing.md) to see how to add your name to this repo
+If you attended Facebook Developer Circle Kampala Hacktoberfest meetup, look at this [contributing guide](Contributing.md) to see how to add your name to this repo
